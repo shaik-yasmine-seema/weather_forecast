@@ -1,2 +1,3 @@
 # weather_forecast
-weather forecast for one week with location search
+https://github.com/shaik-yasmine-seema/weather_forecast.app
+
