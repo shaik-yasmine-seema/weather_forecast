@@ -1,3 +1,3 @@
 # weather_forecast
-https://gihub.com//shaik-yasmine-seema/weather_forecast.app
+http://127.0.0.1:5500/index.html
 
